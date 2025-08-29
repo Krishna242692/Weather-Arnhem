@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background-color: #f0f2f5; /* Light gray background */
+}
